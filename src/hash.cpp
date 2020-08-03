@@ -1,6 +1,7 @@
 #include <bf/hash.hpp>
 
 #include <cassert>
+#include <stdexcept>
 
 namespace bf {
 
